@@ -26,8 +26,7 @@ Simulated a basic Security Operations Center (SOC) environment using virtual mac
 - Writing Splunk search queries (SPL) for threat hunting.
 - Visualizing alerts using Kibana dashboards.
 
-## 📸 Screenshots
-(Add screenshots of your dashboards, alerts, or terminal output here)
+
 
 ## 📁 Folder Structure
 - `/splunk_alerts/` – saved SPL queries
